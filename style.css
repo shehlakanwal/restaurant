@@ -1,0 +1,180 @@
+.navbar{
+
+background-color:rgb(230, 28, 28) !important ;
+}
+.im{
+    width: 100px;
+    height: 100px;
+    
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+    text-indent: 30px;
+    font-size: 20px;
+
+}
+/* .carousel-item{
+    height: 540px;
+} */
+.colo{
+    /* background-color:brown; */
+    color:	rgb(0,0,0);
+  text-align: center;
+  font-weight: bold;
+   padding-left: 20%;
+   padding-right: 20%;
+   background-image: url("images/yy.jpg");
+
+   height: 100%; 
+
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-size: 20px;
+   padding-bottom: 10px;
+   padding-top: 15px;
+}
+
+.display-5{
+    text-align: center !important;
+    /* background-color: tomato; */
+    margin-bottom: 0%;
+    font-family: "Times New Roman", Times, serif;
+color: 	 	 #800000;
+text-shadow: 2px 2px white;
+font-weight: bold;
+text-shadow: 2px 2px  	#A9A9A9;
+}
+
+
+.list-group-item{
+
+    text-align: center;
+    background-image: url("images/foodbackground.jpg")!important;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  font-weight: bold;
+
+}
+.list-group-item:hover{
+    color:	rgb(24,0,0) ;
+}
+.list-group{
+    margin-top: 0px !important;
+    padding-top: 0% !important;
+}
+ 
+
+.about{
+    list-style-type: none;
+    padding-top: 10px;
+    text-align: center;
+}
+.soup{
+    list-style-type: none;
+}
+.container{
+    margin-top: 10px;
+}
+
+.card{
+
+    width: 250px;
+    height: auto;
+    /* margin-top: 20px;
+    margin-left: 20px; */
+    margin-bottom: 10px;
+}
+.card-title{
+    text-align: center;
+    font-weight: bold;
+  
+}
+.card-text{
+    font-weight: bold;
+    text-align: center;
+}
+.btn {
+    width: 100%;
+    background-color: rgb(230, 28, 28);
+    color: black;
+   
+}
+.btn:hover{
+    background-color: tomato !important;
+}
+.card-img-top{
+    height: 150px !important;
+}
+
+footer{
+
+width: 100%;
+background-color: rgb(230, 28, 28);
+
+margin-right: 100px;
+/* float: right; */
+position:absolute; 
+left:0px;
+}
+
+.text-uppercase{
+font-weight: bold;
+font-family: "Times New Roman", Times, serif;
+}
+.copy{
+color: white !important;
+text-decoration: none !important;
+
+}
+.top{
+
+float: right;
+padding-right: 15px;
+
+padding-bottom: 15px;}
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.container{
+    padding-top: 20px;
+    
+}
+.reserve{
+    /* background-image: url("images/formback.jpg")!important; */
+    background-color: tomato !important;
+   padding: 10px 10px 10px 10px;
+
+
+}
+
+.del{
+ 
+    /* background-image: url("images/foodbackground.jpg")!important; */
+
+    /* text-align: center; */
+    background-image: url("images/foodbackground.jpg")!important;
+    height: 100%;
+   width: 100%;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* color: white; */
+  /* font-weight: bold; */
+  padding-top: 20px ;
+  padding-bottom: 20px;
+  padding: 20px 0px 20px 0px;
+  
+
+  
+}
+.neo{
+    height: 200px !important;
+    width: 260px;
+}
